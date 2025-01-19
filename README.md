@@ -21,7 +21,7 @@ A **Flutter-based** quiz application with gamification features, fetching quiz q
 
 ## 📱 Screenshots
 
-🔹🔹 Splash Screen  
+🔹 Splash Screen  
 <img src="screenshot/splash_screen.png" width="300" >
 
 🔹 Home Screen  
