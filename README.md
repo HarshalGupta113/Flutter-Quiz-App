@@ -21,7 +21,21 @@ A **Flutter-based** quiz application with gamification features, fetching quiz q
 
 ## 📱 Screenshots
 
-_(Add screenshots of your app here)_
+🔹 Splash Screen
+
+🔹 Home Screen
+
+🔹 Question Screen
+
+🔹 Answer Feedback
+
+✅ Correct Answer
+
+
+❌ Wrong Answer
+
+
+🔹 Result Screen
 
 ---
 
@@ -64,7 +78,15 @@ _(Add screenshots of your app here)_
 | 30+ | 👑 Legend |
 
 ---
+📌 How to Play?
 
+1. Start the quiz from the Home Screen.
+2. Select an answer for each question.
+3. Submit your answer and get instant feedback.
+4. Your score updates dynamically after each question.
+5. Complete the quiz and see your final score and badge.
+6. 
+---
 ## 🎯 Future Enhancements
 
 - 🌟 **Leaderboard**: Track top scores globally.
