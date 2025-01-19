@@ -21,22 +21,25 @@ A **Flutter-based** quiz application with gamification features, fetching quiz q
 
 ## 📱 Screenshots
 
-🔹 Splash Screen
-<img src="screenshot/splash_screen.png"  width="300" >
+🔹🔹 Splash Screen  
+<img src="screenshot/splash_screen.png" width="300" >
 
-🔹 Home Screen
+🔹 Home Screen  
+<img src="screenshot/home_screen.png" width="300" >
 
-🔹 Question Screen
+🔹 Question Screen  
+<img src="screenshot/question_screen.png" width="300" >
 
 🔹 Answer Feedback
 
-✅ Correct Answer
+✅ Correct Answer  
+<img src="screenshot/correct_answer.png" width="300" >
 
+❌ Wrong Answer  
+<img src="screenshot/wrong_answer.png" width="300" >
 
-❌ Wrong Answer
-
-
-🔹 Result Screen
+🔹 Result Screen  
+<img src="screenshot/result_screen.png" width="300" >
 
 ---
 
