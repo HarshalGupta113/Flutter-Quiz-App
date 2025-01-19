@@ -89,7 +89,7 @@ A **Flutter-based** quiz application with gamification features, fetching quiz q
 3. Submit your answer and get instant feedback.
 4. Your score updates dynamically after each question.
 5. Complete the quiz and see your final score and badge.
-6. 
+
 ---
 ## 🎯 Future Enhancements
 
