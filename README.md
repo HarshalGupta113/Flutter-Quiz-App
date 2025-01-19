@@ -33,10 +33,10 @@ A **Flutter-based** quiz application with gamification features, fetching quiz q
 🔹 Answer Feedback
 
 ✅ Correct Answer  
-<img src="screenshot/correct_answer.png" width="300" >
+<img src="screenshot/check_answer_correct.png" width="300" >
 
 ❌ Wrong Answer  
-<img src="screenshot/wrong_answer.png" width="300" >
+<img src="screenshot/check_answer_wrong.png" width="300" >
 
 🔹 Result Screen  
 <img src="screenshot/result_screen.png" width="300" >
